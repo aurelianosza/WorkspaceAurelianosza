@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\Lista.o
+./debug\estrutura.o
+./debug\de.o
+./debug\no.o
+./debug\Lista.o
+./debug\estrutura.o
+./debug\de.o
+./debug\no.o
+./debug\no.o
+./debug\pilha.o
+);
