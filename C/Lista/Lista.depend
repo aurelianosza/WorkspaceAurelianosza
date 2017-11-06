@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1503506913 source:c:\users\souza\documents\c++\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"lista.h"
+	"tools.h"
+
+1503505322 c:\users\souza\documents\c++\lista\lista.h
+
+1503491064 c:\users\souza\documents\c++\lista\tools.h
+

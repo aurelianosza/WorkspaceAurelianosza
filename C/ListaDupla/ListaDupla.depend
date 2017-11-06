@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1504219771 source:c:\users\souza\documents\c++\listadupla\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"No.hpp"
+	"Lista.hpp"
+
+1504216922 c:\users\souza\documents\c++\listadupla\no.hpp
+
+1504220112 c:\users\souza\documents\c++\listadupla\lista.hpp
+
+1504220164 source:c:\users\souza\documents\c\listadupla\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"No.hpp"
+	"Lista.hpp"
+
+1504216922 c:\users\souza\documents\c\listadupla\no.hpp
+
+1504220112 c:\users\souza\documents\c\listadupla\lista.hpp
+

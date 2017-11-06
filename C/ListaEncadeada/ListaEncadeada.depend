@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1504539897 source:c:\users\souza\documents\c++\listaencadeada\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"No.h"
+	"Lista.h"
+
+1503614267 c:\users\souza\documents\c++\listaencadeada\include\no.h
+
+1503614267 c:\users\souza\documents\c++\listaencadeada\include\lista.h
+
+1503614278 source:c:\users\souza\documents\c++\listaencadeada\src\lista.cpp
+	"Lista.h"
+
+1503935403 c:\users\souza\documents\c++\listaencadeada\no.h
+
+1504539940 c:\users\souza\documents\c++\listaencadeada\lista.h
+
+1504544163 source:c:\users\souza\documents\c\listaencadeada\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"No.h"
+	"Lista.h"
+
+1503935403 c:\users\souza\documents\c\listaencadeada\no.h
+
+1504544112 c:\users\souza\documents\c\listaencadeada\lista.h
+
